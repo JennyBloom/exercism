@@ -1,4 +1,2 @@
 # ignore python cache files.
 python/*/__pycache__
-‘python/leap/year.pyc’
-‘python/leap/yearscratch.py’
